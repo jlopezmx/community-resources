@@ -1,4 +1,4 @@
-## Software Development | Continuos Learning | Community Resources
+## Software Development | Continuous Learning | Community Resources
 
 ### Curated selection of programming magazines, books and other reading resources
 

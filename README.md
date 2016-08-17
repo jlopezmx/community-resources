@@ -11,7 +11,7 @@ This repository is a personal effort for sharing development learning resources 
 
 Jaziel Lopez, Experienced Software Developer, Tijuana Area, Mexico
 
-http://jlopez.mx 
+<a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">http://jlopez.mx</a>
 
 > <sub>DISCLAIMER:</sub> 
 > <sub>I own a copy of the resources shared on this shelf.</sub>

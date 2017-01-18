@@ -1,15 +1,11 @@
 ## Software Development Online Resources
 
----
-
 Personal shelf with software development materials, DevOps and System Administration online resources.
 
 #### Contact:
----
+-
 Jaziel Lopez, Experienced Software Developer
-
 <a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">Website</a>
-
 Tijuana Area, Mexico
 
 > <sub>DISCLAIMER:</sub> 

@@ -2,14 +2,9 @@
 
 ### Curated selection of programming magazines, books and other reading resources
 
-This repository is a personal effort for sharing development learning resources for anyone interested in PHP/JS/Python development. Also you will find additional resources around devops and system administration.
+This repository is a personal effort to share software development, DevOps and Systems Administration online resources.
 
-- php|architect
-- PHP Web Development
-- Devops resources
- 
-
-Jaziel Lopez, Experienced Software Developer, Tijuana Area, Mexico
+> Jaziel Lopez, Experienced Software Developer, Tijuana Area, Mexico
 
 <a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">http://jlopez.mx</a>
 

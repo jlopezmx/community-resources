@@ -2,10 +2,12 @@
 
 Personal shelf with software development material, DevOps and System Administration online resources.
 
-#### Contact:
--
+<strong>Contact</strong><br/>
 Jaziel Lopez, Experienced Software Developer <br/>
-<a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">Website</a> | Tijuana Area, Mexico
+<a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">Website</a><br/>
+Tijuana Area, Mexico
+
+-
 
 > <sub>DISCLAIMER:</sub> 
 > <sub>I own a copy of the resources shared on this shelf.</sub>

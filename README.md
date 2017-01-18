@@ -1,12 +1,16 @@
-## Software Development | Continuous Learning | Community Resources
+## Software Development Online Resources
 
-### Curated selection of programming magazines, books and other reading resources
+---
 
-This repository is a personal effort to share software development, DevOps and Systems Administration online resources.
+Personal shelf with software development materials, DevOps and System Administration online resources.
 
-> Jaziel Lopez, Experienced Software Developer, Tijuana Area, Mexico
+#### Contact:
+---
+Jaziel Lopez, Experienced Software Developer
 
-<a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">http://jlopez.mx</a>
+<a href="mailto:juan.jaziel@gmail.com">Email</a> | <a href="http://jlopez.mx" target="_new" title="Portfolio">Website</a>
+
+Tijuana Area, Mexico
 
 > <sub>DISCLAIMER:</sub> 
 > <sub>I own a copy of the resources shared on this shelf.</sub>

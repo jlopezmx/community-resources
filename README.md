@@ -1,7 +1,5 @@
 ## Software Development Online Resources
 
----
-
 * Programming
 * Devops
 * IT Management

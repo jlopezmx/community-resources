@@ -3,7 +3,7 @@
 * Programming
 * Devops
 * IT Management
-* Professional advise
+* Professional Advice
 * Web Security
 
 <strong>Contact</strong><br/>
